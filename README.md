@@ -73,7 +73,7 @@ void RecursiveSelection (vector<int> & a, int first)
 
 ## Submission
 
-Submit your code in C++, named lab1.cpp, by going to the following autograder page:
+Submit your code in C++, named **lab1.cpp**, by going to the following autograder page:
 ```
 TBA
 ```
@@ -85,8 +85,9 @@ You have a total of 30 submissions opportunities, and 16 submissions on a partic
 
 Automatic test cases (50 pts): 5 test cases each tests one of the sorting functions. 
 For this to work, pay attention to the following details:
-• The command used in your program needs to match with those specified in this description, i.e., **selection**, **rselection**, **bubble**, **rbubble**
-• Before submitting your program, comment out or delete any cout statements except for the one that displaying the vector after sorting function is called.
+
+1. The command used in your program needs to match with those specified in this description, i.e., **selection**, **rselection**, **bubble**, **rbubble**
+2. Before submitting your program, comment out or delete any cout statements except for the one that displays the vector after sorting function is called.
 
 Handgrading (20 pts): style, comment, and logic...
 See the autograder page for this project for details.
