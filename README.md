@@ -75,7 +75,7 @@ void RecursiveSelection (vector<int> & a, int first)
 
 Submit your code in C++, named **lab1.cpp**, by going to the following autograder page:
 ```
-TBA
+[lab1 submission](https://storm.cis.fordham.edu:8443/web/project/2050)
 ```
 
 You have a total of 30 submissions opportunities, and 16 submissions on a particular day.
