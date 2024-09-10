@@ -26,8 +26,9 @@ The following example illustrates how your program should work.
 ```
 
 ## Detail Requirements:
-1. Please name your program as **lab1.cpp**. 
-2. Implement the following function to initialize a vector with user input:
+1. Please name your program as **lab1.cpp**.
+2. Write a **main** function so that you program when compiled and executed, will work as the previous section **Program Execution** illustrated. 
+3. Implement the following function to initialize a vector with user input:
 ```
 /* initialize a vector */
 vector<int> ReadVector()
